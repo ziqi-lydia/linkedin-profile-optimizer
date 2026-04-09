@@ -1,5 +1,12 @@
 # LinkedIn Profile Optimizer — Make Your Profile Work While You Sleep
 
+<div align="center">
+
+https://github.com/ziqi-lydia/linkedin-profile-optimizer/raw/main/demo.mp4
+
+</div>
+
+
 An AI skill that reverse-engineers what top LinkedIn profiles in your field do right, then rewrites yours to match — so recruiters find you, founders get taken seriously, and your profile actually converts visitors into conversations.
 
 **Built for two types of people:**
@@ -121,7 +128,7 @@ Sai delivers a detailed breakdown of each benchmark profile:
 
 ## Requirements
 
-- [Sai by Simular](https://simular.ai/sai) installed on your computer
+- [Access Sai - Your Agentic AI Coworker](https://simular.ai/sai)
 - An active LinkedIn account with browser session
 - Your resume or CV (for job seekers)
 - Your product description (for founders)
